@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0969DF&center=true&vCenter=true&height=60&lines=Full-stack+Student+developer)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @SeegerM
-- 📘 I’m a student and working at <img src="https://img.shields.io/badge/Secret-282C34?logo=AG&logoColor=F7DF1E?style=flat" alt="REDACTED logo" title="REDACTED" height="15" />
+- 📘 I’m a Ph.D. student working at Philipps-Universität Marburg @UMR-Big-Data-Analytics
 - 👀 I’m interested in new technology and hard problems
-- 🌱 I’m currently learning as much as I can
+- 🌱 More Specific problems related to Data Profiling and Database technology
 - 💞️ Cutie @Rosenbem
 
 ## 🛠  Proficient Tools
